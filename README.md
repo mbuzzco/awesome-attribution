@@ -132,7 +132,6 @@ People publishing consistently and independently about measurement.
 - [Avinash Kaushik — Marketing-Analytics Intersect](https://www.kaushik.net/avinash/newsletter/) — 16 years at Google, former head of strategy for Adobe Marketing Cloud, now strategy leadership at Human Made Machine and Tapestry.
 - [Haus Blog](https://haus.io/blog) — Incrementality-first, economist-driven writing.
 - [Madison and Wall](https://www.madisonandwall.com) — Brian Wieser's advertising industry analysis, with strong measurement coverage.
-- [mbuzz Blog](https://mbuzz.co/blog) — Server-side attribution, DSL design, and measurement-methodology writing.
 - [MineThatData](https://minethatdata.com) — Kevin Hillstrom's long-running newsletter on retail, direct response, and attribution skepticism.
 - [Mobile Dev Memo](https://mobiledevmemo.com) — Eric Seufert on mobile measurement, ATT, and the privacy-era advertising economy.
 - [Recast Blog](https://getrecast.com/blog) — Michael Kaminsky and team on Bayesian MMM.
