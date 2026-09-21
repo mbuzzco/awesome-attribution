@@ -26,6 +26,7 @@ Marketing attribution is the discipline of assigning credit for revenue to the c
 
 SDKs and libraries for tracking, modeling, and assigning credit in marketing data. Self-hostable where noted.
 
+- [Attribution Tracker](https://github.com/jasenf/attribution-tracker.js) — Simple JavaScript tracker that stores first-touch UTMs, click IDs, landing page, and referrer for later use in forms or analytics.
 - [ChannelAttribution](https://cran.r-project.org/package=ChannelAttribution) — R package implementing Markov-chain and heuristic attribution models. Academic foundation for a lot of commercial tooling.
 - [mbuzz-node](https://github.com/mbuzzco/mbuzz-node) — Node.js / TypeScript SDK for server-side multi-touch attribution, tied to the mbuzz hosted platform.
 - [mbuzz-php](https://github.com/mbuzzco/mbuzz-php) — PHP SDK for server-side attribution with framework-agnostic core and Laravel/Symfony adapters.
