@@ -115,6 +115,7 @@ Long-form explainers and guides that assume the reader is serious.
 - [mbuzz MTA Academy](https://mbuzz.co/academy) — Practitioner-oriented guides on multi-touch attribution, server-side tracking, and model selection.
 - [Mobile Dev Memo — Attribution Archives](https://mobiledevmemo.com/category/attribution/) — Eric Seufert's writing on mobile, ATT, and measurement post-privacy.
 - [Recast Blog — MMM Methodology](https://getrecast.com/blog) — Michael Kaminsky's writing on Bayesian MMM, geo-experiments, and measurement philosophy.
+- [Telegram Campaign Economics: A Formula-Ready Worksheet](https://gist.github.com/thinkpad2050/a0391e659d8244142a746ebf3021af33) - Worksheet for comparing campaign placements with observed costs, defined outcomes, attribution windows, and formula-based metrics.
 
 ## Datasets
 
