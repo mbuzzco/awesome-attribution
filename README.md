@@ -50,6 +50,7 @@ Marketing mix modeling and causal measurement, now mostly free.
 Vendors that sell attribution as a product. Listed alphabetically with no ranking. Descriptions are intentionally flat.
 
 - [Adjust](https://www.adjust.com) — Mobile measurement platform (MMP) focused on app install attribution and fraud prevention. Owned by AppLovin.
+- [Appy](https://appy.to/) — Mobile attribution platform with SDKs for measuring installs, in-app events and revenue by campaign link.
 - [AppsFlyer](https://www.appsflyer.com) — Mobile measurement platform. Large independent MMP with strong agency and network integrations.
 - [Attribution](https://attributionapp.com) — Multi-touch attribution for B2B SaaS. Long-standing independent vendor.
 - [Branch](https://branch.io) — Mobile linking and attribution, cross-platform deep linking.
